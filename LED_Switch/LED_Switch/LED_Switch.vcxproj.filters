@@ -15,11 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="LED_Blink.ino" />
+    <None Include="LED_Switch.ino" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="__vm\.LED_Blink.vsarduino.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
+ 
 </Project>
