@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="LED_Switch.ino" />
+    <None Include="External_Interrupts.ino" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="__vm\.LED_Switch.vsarduino.h">
+    <ClInclude Include="__vm\.External_Interrupts.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
